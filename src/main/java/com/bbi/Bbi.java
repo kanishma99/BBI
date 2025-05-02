@@ -15,5 +15,13 @@ public class Bbi {
 		// TODO Auto-generated method stub
 
 	}
+	private void nanthasuriy() {
+		// TODO Auto-generated method stub
+
+	}
+	private void nanthasanjairmasamy() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
