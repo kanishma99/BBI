@@ -13,5 +13,17 @@ public class Office {
 		// TODO Auto-generated method stub
 
 	}
+	private void yo() {
+		// TODO Auto-generated method stub
+
+	}
+	private void jo() {
+		// TODO Auto-generated method stub
+
+	}
+	private void jothika() {
+		// TODO Auto-generated method stub
+
+	}
 
 }

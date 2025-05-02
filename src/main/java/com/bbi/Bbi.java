@@ -15,13 +15,24 @@ public class Bbi {
 		// TODO Auto-generated method stub
 
 	}
+	private void asin() {
+		// TODO Auto-generated method stub
+
+	}
+	private void villan() {
+		// TODO Auto-generated method stub
+
+	}
+	private void police() {
+		// TODO Auto-generated method stub
+
+	}
 	private void nanthasuriy() {
 		// TODO Auto-generated method stub
 
 	}
 	private void nanthasanjairmasamy() {
-		// TODO Auto-generated method stub
-
+		
 	}
-
+	
 }
